@@ -2,7 +2,7 @@
 All the solutions for all the assignments for each week as per 2026
 -------------------------------------------------------------
 
-**How to complete the assignments** 
+**Instructions** 
 --------------------------------------------------------------
   - Download the zip file and extract it.
   - Drag and drop the particular assignment folder to the sandbox of Coursera and delete all other files and folders.
